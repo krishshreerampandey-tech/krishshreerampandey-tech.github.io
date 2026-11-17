@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "University of California, Santa Barbara | B.S. Statistics & Data Science, expected 2029"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "University of California, Santa Barbara | B.S. Statistics & Data Science, expected 2029"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nProduct Intern, Leap Orbit | Columbia, MD | Aug 2026 to present\nWriting the product requirements for a new healthcare product, from early research through scoping the first release.\nResident Assistant, UC Santa Barbara | Aug 2026 to present\nSupporting residents across two floors of San Miguel Hall.\nResearch Assistant, University of Maryland | Remote | Jun to Aug 2026\nResearched the pricing and economics of large language models.\nProject Lead, WEMech | Oct 2025 to present\nLeading STEM education activities for K-8 students."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming: Python, Java, JavaScript\nLanguages: English (native), French (working proficiency)"
+  },
+  {
+    "objectID": "about.html#outside-the-classroom",
+    "href": "about.html#outside-the-classroom",
+    "title": "About",
+    "section": "Outside the Classroom",
+    "text": "Outside the Classroom\nI’m a member of Theta Nu Kappa, a multicultural and academic fraternity, and have served on the San Nicolas Hall Residence Council. Back home in Maryland I’ve volunteered with the Howard County Food Bank and at Miller Library, where I taught computer science to kids."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "LLM Pricing & Economics Research\n\n\n\nSummer research at the University of Maryland on how large language models are priced.\n\n\n\n\n\n\nAug 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWEMech STEM Outreach\n\n\n\nLeading hands-on STEM education activities for K-8 students.\n\n\n\n\n\n\nOct 1, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/wemech-outreach/index.html",
+    "href": "projects/wemech-outreach/index.html",
+    "title": "WEMech STEM Outreach",
+    "section": "",
+    "text": "Since October 2025 I’ve been a Project Lead at WEMech, where I lead STEM education activities for K-8 students.\nA fuller write-up is coming soon."
+  },
+  {
+    "objectID": "projects/llm-pricing-research/index.html",
+    "href": "projects/llm-pricing-research/index.html",
+    "title": "LLM Pricing & Economics Research",
+    "section": "",
+    "text": "As a remote Research Assistant at the University of Maryland (June to August 2026), I researched the pricing and economics of large language models.\nA fuller write-up is coming soon."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Krish Pandey",
+    "section": "",
+    "text": "Hi! I’m Krish Pandey, an undergraduate studying Statistics & Data Science at UC Santa Barbara. I’m interested in AI, product development, and data-driven decision making: figuring out what’s worth building, then using data to know whether it’s working.\nRight now I’m a Product Intern at Leap Orbit, where I’m writing the product requirements for a new healthcare product. I’m also a Resident Assistant at UCSB and lead STEM outreach for K-8 students with WEMech.\nTake a look at my work on the Projects page, or feel free to reach out. I’d love to connect!"
+  }
+]
