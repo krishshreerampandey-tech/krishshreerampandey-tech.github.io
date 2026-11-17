@@ -1,22 +1,18 @@
 ---
-title: "Your Name"
+title: "Krish Pandey"
 image: media/headshot.png
-2toc: false
+toc: false
 about:
     template: jolla
     image-shape: round
     image-width: 17em
     links:
-        - text: LinkedIn
-          href: https://www.linkedin.com/
         - text: GitHub
-          href: https://github.com/
-        - text: Email
-          href: mailto:email@ucsb.edu
+          href: https://github.com/krishshreerampandey-tech
 ---
 
-Hi! I’m **[Your Name]**, an undergraduate studying **[Your Major]** at **[Your University]**. I’m passionate about **[Topic 1]**, **[Topic 2]**, and turning ideas into practical, well-designed projects.
+Hi! I'm **Krish Pandey**, an undergraduate studying **Statistics & Data Science** at **UC Santa Barbara**. I'm interested in **AI**, **product development**, and **data-driven decision making**: figuring out what's worth building, then using data to know whether it's working.
 
-Right now, I’m exploring **[specific interest or current project]** and building my skills in **[tool, language, or method]**. Outside the classroom, you can usually find me **[hobby or campus activity, e.g., hiking, playing intramural sports, or trying new coffee shops]**.
+Right now I'm a **Product Intern at Leap Orbit**, where I'm writing the product requirements for a new healthcare product. I'm also a Resident Assistant at UCSB and lead STEM outreach for K-8 students with WEMech.
 
-Take a look at my recent work on the **Projects** page, or feel free to reach out—I’d love to connect!
+Take a look at my work on the **Projects** page, or feel free to reach out. I'd love to connect!

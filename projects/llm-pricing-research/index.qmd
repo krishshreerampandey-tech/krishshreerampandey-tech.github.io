@@ -1,0 +1,10 @@
+---
+title: "LLM Pricing & Economics Research"
+description: "Summer research at the University of Maryland on how large language models are priced."
+date: 2026-08-01
+categories: [research, ai, economics]
+---
+
+As a remote Research Assistant at the University of Maryland (June to August 2026), I researched the pricing and economics of large language models.
+
+*A fuller write-up is coming soon.*

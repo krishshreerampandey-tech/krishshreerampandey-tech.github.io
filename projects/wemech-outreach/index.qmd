@@ -1,0 +1,10 @@
+---
+title: "WEMech STEM Outreach"
+description: "Leading hands-on STEM education activities for K-8 students."
+date: 2025-10-01
+categories: [education, leadership]
+---
+
+Since October 2025 I've been a Project Lead at WEMech, where I lead STEM education activities for K-8 students.
+
+*A fuller write-up is coming soon.*

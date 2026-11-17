@@ -1,17 +1,36 @@
 ---
 title: "About"
-subtitle: "A quick look at what I build, what I study, and what keeps me busy offline"
+subtitle: "What I study, what I build, and what keeps me busy"
 title-block-banner: true
 ---
 
-## The Work
+## Education
 
-I am an urban planner and spatial analyst focused on making cities easier to walk, bike, and live in. My day-to-day involves mapping public transit gaps, analyzing pedestrian safety data, and translating dense municipal reports into clear, visual stories for local communities.
+**University of California, Santa Barbara** | B.S. Statistics & Data Science, expected 2029
 
-![Map of the world, made by: L'Isle, Guillaume de, 1675-1726, cartographer. Available at: <http://hdl.loc.gov/loc.gmd/g3200.ct009328>](https://tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3200:g3200:ct009328/full/pct:12.5/0/default.jpg){fig-alt="Map of the whole world : adorned according to the observations of the Royal Academy of Sciences and some others, according to the most recent annotations."}
+## Experience
 
-## The Side Quest
+**Product Intern, Leap Orbit** | Columbia, MD | Aug 2026 to present
 
-When I step away from city maps, I spend most of my weekends restoring vintage mechanical typewriters. The hobby started by accident after I found a jammed 1960s portable model at a local thrift shop and decided to take it apart on my kitchen table.
+Writing the product requirements for a new healthcare product, from early research through scoping the first release.
 
-![Remington typewriter. Clas Ohlson museum in Insjön near Leksand in Dalarna. Available at: <https://commons.wikimedia.org/wiki/File:Remington_typewriter.JPG>](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Remington_typewriter.JPG/960px-Remington_typewriter.JPG){fig-alt="Picture of the Remington typewriter described in the caption"}
+**Resident Assistant, UC Santa Barbara** | Aug 2026 to present
+
+Supporting residents across two floors of San Miguel Hall.
+
+**Research Assistant, University of Maryland** | Remote | Jun to Aug 2026
+
+Researched the pricing and economics of large language models.
+
+**Project Lead, WEMech** | Oct 2025 to present
+
+Leading STEM education activities for K-8 students.
+
+## Skills
+
+- **Programming:** Python, Java, JavaScript
+- **Languages:** English (native), French (working proficiency)
+
+## Outside the Classroom
+
+I'm a member of Theta Nu Kappa, a multicultural and academic fraternity, and have served on the San Nicolas Hall Residence Council. Back home in Maryland I've volunteered with the Howard County Food Bank and at Miller Library, where I taught computer science to kids.
