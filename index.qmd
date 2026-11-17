@@ -7,8 +7,12 @@ about:
     image-shape: round
     image-width: 17em
     links:
+        - text: LinkedIn
+          href: https://www.linkedin.com/in/krishsrp
         - text: GitHub
           href: https://github.com/krishshreerampandey-tech
+        - text: Email
+          href: mailto:krishshreerampandey@gmail.com
 ---
 
 Hi! I'm **Krish Pandey**, an undergraduate studying **Statistics & Data Science** at **UC Santa Barbara**. I'm interested in **AI**, **product development**, and **data-driven decision making**: figuring out what's worth building, then using data to know whether it's working.
